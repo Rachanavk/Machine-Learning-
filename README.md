@@ -8,3 +8,6 @@
 3.2  <a href="https://www.kaggle.com/code/prashant111/decision-tree-classifier-tutorial">Decision Tree Part 2</a>
 
 4. <a href="https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/">SVM 2</a>
+5. Ensemble Techniques
+   5.1 <a href="https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/">Random Forest</a>
+   
